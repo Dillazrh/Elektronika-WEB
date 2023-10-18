@@ -3,13 +3,13 @@
 # Nama : Nadilla Ristya Azzahra
 
 # Alat Bahan
-Esp 32
-Laptop/Komputer + Software Arduino IDE
-Kabel micro USB
-Resistor 220 - 330 ohm
-Jumper wires male to female
-Lampu Led 3mm
-Project board/Bearboard
+1. ESP32
+2. Komputer + Arduino IDE
+3. Kabel micro usb
+4. Project board
+5. Kabel jumper wires female to male
+6. LED
+7. Resistor 220-330 ohm
 
 # LANGKAH KERJA :
 1. Langkah pertama anda harus menginstal software Arduino IDE pada komputer anda. 
